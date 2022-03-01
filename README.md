@@ -4,8 +4,8 @@
  <!--<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
-  <img src="https://github.com/ShahanM/github-stats/blob/master/generated/overview.svg"/>
-  <img src="https://github.com/ShahanM/github-stats/blob/master/generated/languages.svg"/>
+  <img src="https://raw.githubusercontent.com/ShahanM/github-stats/master/generated/overview.svg"/>
+  <img src="https://raw.githubusercontent.com/ShahanM/github-stats/blob/master/generated/languages.svg"/>
 </details>
 
 
