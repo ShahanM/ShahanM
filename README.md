@@ -5,7 +5,7 @@
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
   <img src="https://raw.githubusercontent.com/ShahanM/github-stats/master/generated/overview.svg"/>
-  <img src="https://raw.githubusercontent.com/ShahanM/github-stats/blob/master/generated/languages.svg"/>
+  <img src="https://raw.githubusercontent.com/ShahanM/github-stats/master/generated/languages.svg"/>
 </details>
 
 
