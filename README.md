@@ -8,6 +8,7 @@
   <img src="https://github.com/ShahanM/github-stats/blob/master/generated/languages.svg"/>
 </details>
 
+
 <!--
 **ShahanM/ShahanM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -104,5 +105,4 @@ SCSS                     1 repo              █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 10/01/2022
 <!--END_SECTION:waka-->
