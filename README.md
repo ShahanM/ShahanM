@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-381%20hrs%205%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86%20Thousand%20lines%20of%20code-blue)
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 > 🏆 136 Contributions in the Year 2022
  > 
-> 📦 51.8 kB Used in GitHub's Storage 
+> 📦 51.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -103,5 +105,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 06/05/2022 04:07:24 UTC
+ Last Updated on 06/05/2022 06:05:24 UTC
 <!--END_SECTION:waka-->
