@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 > 🏆 148 Contributions in the Year 2022
  > 
-> 📦 52.0 kB Used in GitHub's Storage 
+> 📦 51.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -105,5 +105,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/05/2022 14:10:36 UTC
+ Last Updated on 13/05/2022 16:05:26 UTC
 <!--END_SECTION:waka-->
