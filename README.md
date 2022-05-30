@@ -102,5 +102,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/05/2022 20:04:45 UTC
+ Last Updated on 30/05/2022 22:04:34 UTC
 <!--END_SECTION:waka-->
