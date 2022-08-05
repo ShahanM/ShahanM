@@ -4,9 +4,9 @@
  <!--<a href=""><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>-->
 <details open>
   <summary>📈 <b>Github stats:</b></summary>
-  ![](https://raw.githubusercontent.com/ShahanM/stats-github/master/generated/overview.svg#gh-dark-mode-only)
+  <img src="https://raw.githubusercontent.com/ShahanM/stats-github/master/generated/overview.svg#gh-dark-mode-only" />
   <!--![](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-light-mode-only)-->
-  ![](https://raw.githubusercontent.com/ShahanM/stats-github/master/generated/languages.svg#gh-dark-mode-only)
+  <img src="https://raw.githubusercontent.com/ShahanM/stats-github/master/generated/languages.svg#gh-dark-mode-only" />
   <!--![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
   <!--<img src="https://raw.githubusercontent.com/ShahanM/github-stats/master/generated/overview.svg"/>-->
   <!--<img src="https://raw.githubusercontent.com/ShahanM/github-stats/master/generated/languages.svg"/>-->
