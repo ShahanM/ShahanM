@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-519%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-520%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  > 
 > 📜 24 Public Repositories 
  > 
-> 🔑 28 Private Repositories  
+> 🔑 29 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -91,11 +91,11 @@ Linux                    14 mins             ███████████�
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      16 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Jupyter Notebook         3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.5% 
-SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.5%
+TeX                      17 repos            ██████████░░░░░░░░░░░░░░░   41.46% 
+Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   24.39% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32% 
+SCSS                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
 
 ```
 
@@ -105,5 +105,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 15/08/2022 18:06:40 UTC
+ Last Updated on 15/08/2022 20:06:10 UTC
 <!--END_SECTION:waka-->
