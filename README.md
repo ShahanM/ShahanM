@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-522%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -83,12 +83,12 @@ JavaScript               5 mins              ░░░░░░░░░░░�
 BibTeX                   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.94%
 
 🔥 Editors: 
-VS Code                  2 hrs 13 mins       ███████████░░░░░░░░░░░░░░   47.25% 
-Neovim                   2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.14% 
-Vim                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   7.62%
+VS Code                  2 hrs 13 mins       ████████████░░░░░░░░░░░░░   47.86% 
+Neovim                   2 hrs 7 mins        ███████████░░░░░░░░░░░░░░   45.72% 
+Vim                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   6.42%
 
 💻 Operating System: 
-Linux                    4 hrs 42 mins       █████████████████████████   100.0%
+Linux                    2 hrs 28 mins       █████████████████████████   100.0%
 
 ```
 
@@ -109,5 +109,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2022 06:06:17 UTC
+ Last Updated on 16/08/2022 10:07:15 UTC
 <!--END_SECTION:waka-->
