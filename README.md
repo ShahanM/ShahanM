@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-523%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 240 Contributions in the Year 2022
+> 🏆 245 Contributions in the Year 2022
  > 
 > 📦 55.9 kB Used in GitHub's Storage 
  > 
@@ -109,5 +109,5 @@ SCSS                     1 repo              ░░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 16/08/2022 10:07:15 UTC
+ Last Updated on 16/08/2022 14:07:10 UTC
 <!--END_SECTION:waka-->
