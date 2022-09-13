@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-537%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-533%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 270 Contributions in the Year 2022
+> 🏆 273 Contributions in the Year 2022
  > 
 > 📦 58.3 kB Used in GitHub's Storage 
  > 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  > 
 > 📜 25 Public Repositories 
  > 
-> 🔑 29 Private Repositories  
+> 🔑 30 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -95,11 +95,11 @@ Linux                    3 hrs 2 mins        ███████████�
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      17 repos            ██████████░░░░░░░░░░░░░░░   40.48% 
-Python                   10 repos            ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.9% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.14% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.76%
+TeX                      18 repos            ██████████░░░░░░░░░░░░░░░   41.86% 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
+Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
 
 ```
 
@@ -109,5 +109,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/09/2022 03:01:14 UTC
+ Last Updated on 13/09/2022 04:38:06 UTC
 <!--END_SECTION:waka-->
