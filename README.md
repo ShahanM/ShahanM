@@ -29,70 +29,32 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2032%20mins-blue) ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue) ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-136%20Thousand%20lines%20of%20code-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-575%20hrs%2020%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-134%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 338 Contributions in the Year 2022
+> 🏆 347 Contributions in the Year 2022
  > 
-> 📦 61.8 kB Used in GitHub's Storage 
+> 📦 62.0 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 25 Public Repositories 
+> 📜 24 Public Repositories 
  > 
-> 🔑 30 Private Repositories  
+> 🔑 32 Private Repositories  
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
-🌆 Daytime    61 commits     ███████████░░░░░░░░░░░░░░   46.21% 
-🌃 Evening    22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-🌙 Night      28 commits     █████░░░░░░░░░░░░░░░░░░░░   21.21%
-
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday       32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.24% 
-Tuesday      20 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.15% 
-Wednesday    19 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.39% 
-Thursday     13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.85% 
-Friday       29 commits     █████░░░░░░░░░░░░░░░░░░░░   21.97% 
-Saturday     3 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   2.27% 
-Sunday       16 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-TeX                      4 hrs 19 mins       ██████████████████░░░░░░░   74.33% 
-Python                   1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   18.91% 
-CSV                      14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.28% 
-JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.48%
-
-🔥 Editors: 
-VS Code                  5 hrs 49 mins       █████████████████████████   100.0%
-
-💻 Operating System: 
-Linux                    5 hrs 49 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      18 repos            ██████████░░░░░░░░░░░░░░░   41.86% 
-Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   23.26% 
-Java                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.63% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.65%
+TeX                      18 repos            ██████████░░░░░░░░░░░░░░░   40.91% 
+Python                   10 repos            █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.36% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82%
 
 ```
 
@@ -102,5 +64,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/10/2022 14:19:42 UTC
+ Last Updated on 12/10/2022 22:07:10 UTC
 <!--END_SECTION:waka-->
