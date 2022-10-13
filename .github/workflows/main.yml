@@ -19,3 +19,5 @@ jobs:
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROJECTS: "False"
           SHOW_UPDATED_DATE: "True"
+          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_LANGUAGE_PER_REPO: "True"
