@@ -37,6 +37,8 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
+> 🏆 370 Contributions in the Year 2022
+ > 
 > 📦 62.1 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -101,5 +103,5 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/10/2022 02:55:40 UTC
+ Last Updated on 22/10/2022 06:12:36 UTC
 <!--END_SECTION:waka-->
