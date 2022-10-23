@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-582%20hrs%2049%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -103,5 +103,5 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 22/10/2022 22:07:15 UTC
+ Last Updated on 23/10/2022 00:19:08 UTC
 <!--END_SECTION:waka-->
