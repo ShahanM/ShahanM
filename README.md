@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 🏆 405 Contributions in the Year 2022
+> 🏆 408 Contributions in the Year 2022
  > 
 > 📦 62.3 kB Used in GitHub's Storage 
  > 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
  > 
 > 📜 26 Public Repositories 
  > 
-> 🔑 32 Private Repositories  
+> 🔑 33 Private Repositories  
  > 
 **I'm an Early 🐤** 
 
@@ -91,11 +91,11 @@ Linux                    6 mins              ███████████�
 **I Mostly Code in TeX** 
 
 ```text
-TeX                      18 repos            ██████████░░░░░░░░░░░░░░░   40.0% 
-Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   24.44% 
-Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+TeX                      19 repos            ██████████░░░░░░░░░░░░░░░   41.3% 
+Python                   11 repos            ██████░░░░░░░░░░░░░░░░░░░   23.91% 
+Java                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.52% 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.52%
 
 ```
 
@@ -105,5 +105,5 @@ JavaScript               3 repos             █░░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/ShahanM/ShahanM/main/charts/bar_graph.png) 
 
 
- Last Updated on 04/11/2022 14:07:35 UTC
+ Last Updated on 04/11/2022 16:07:31 UTC
 <!--END_SECTION:waka-->
